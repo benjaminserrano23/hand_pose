@@ -1,0 +1,1 @@
+Sitemap: https://benjaminserrano23.github.io/hand_pose/sitemap.xml
