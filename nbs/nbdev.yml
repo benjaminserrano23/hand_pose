@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hand_pose"
+  site-url: "https://benjaminserrano23.github.io/hand_pose"
+  description: "hand_pose_repo"
+  repo-branch: main
+  repo-url: "https://github.com/benjaminserrano23/hand_pose"
