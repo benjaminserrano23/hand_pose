@@ -2,4 +2,6 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 00_core.ipynb
+      - section: app_hand_pose
+        contents:
+          - app_hand_pose\00_app_hand_pose.qmd
